@@ -1,0 +1,32 @@
+ion-content {
+  background: pink;
+}
+
+ion-card {
+  ion-img {
+    width: 100%;
+    height: 190px;
+    object-fit: cover;
+  }
+
+  ion-card-content {
+    text-align: center;
+
+    h2 {
+      font-size: 20px;
+      font-weight: bold;
+      margin-top: 10px;
+    }
+
+    p {
+      font-size: 16px;
+      margin-top: 5px;
+    }
+  }
+}
+
+div {
+  padding: 10px;
+  text-align: justify;
+  text-indent: 20px;
+}
